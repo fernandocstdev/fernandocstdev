@@ -4,6 +4,13 @@ Soy Fernando, un apasionado desarrollador web fullstack con un enfoque en la cre
 
 Con una sólida experiencia en el diseño de aplicaciones web interactivas y sitios escalables, me esfuerzo por combinar lo mejor del frontend y el backend para ofrecer soluciones innovadoras. Disfruto trabajar en entornos colaborativos donde puedo aportar mis habilidades técnicas para transformar ideas en productos tangibles.
 
+Tecnologias:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 Redes sociales:
 - <a href="https://www.linkedin.com/in/fernando-dorantes/">LinkedIn</a> 
 
