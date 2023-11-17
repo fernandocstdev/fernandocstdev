@@ -1,11 +1,11 @@
 # Hola 👋
 
-Hi, I'm Monica! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+Soy Fernando, un apasionado desarrollador web fullstack con un enfoque en la creación de experiencias digitales dinámicas y funcionales. Mi viaje en el mundo del desarrollo comenzó con un amor por la resolución de problemas y la creatividad, lo que me llevó a explorar diferentes lenguajes de programación y tecnologías.
 
-Find me around the web 🌎:
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+Con una sólida experiencia en el diseño de aplicaciones web interactivas y sitios escalables, me esfuerzo por combinar lo mejor del frontend y el backend para ofrecer soluciones innovadoras. Disfruto trabajar en entornos colaborativos donde puedo aportar mis habilidades técnicas para transformar ideas en productos tangibles.
+
+Redes sociales:
+- <a href="https://www.linkedin.com/in/fernando-dorantes/">LinkedIn</a> 
 
 
 <!--
