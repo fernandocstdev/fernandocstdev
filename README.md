@@ -7,7 +7,7 @@ Con una sólida experiencia en el diseño de aplicaciones web interactivas y sit
 Herramientas y tecnologias:
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,java,nodejs,express,astro,react,nextjs,babel,vite,webpack,laravel,php,mysql,postgres,swift,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,java,nodejs,express,mongodb,astro,react,nextjs,babel,vite,webpack,laravel,php,mysql,postgres,swift,tailwind,vscode" />
   </a>
 </p>
 
