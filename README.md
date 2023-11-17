@@ -4,10 +4,10 @@ Soy Fernando, un apasionado desarrollador web fullstack con un enfoque en la cre
 
 Con una sólida experiencia en el diseño de aplicaciones web interactivas y sitios escalables, me esfuerzo por combinar lo mejor del frontend y el backend para ofrecer soluciones innovadoras. Disfruto trabajar en entornos colaborativos donde puedo aportar mis habilidades técnicas para transformar ideas en productos tangibles.
 
-Tecnologias:
-<p align="center">
+Herramientas y tecnologias:
+<p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,java,nodejs,express,astro,react,nextjs,babel,vite,webpack,laravel,php,mysql,postgres,swift,tailwind,vscode" />
   </a>
 </p>
 
